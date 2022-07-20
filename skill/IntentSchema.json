@@ -20,7 +20,7 @@
                     "slots": [
                         {
                             "name": "FirstName",
-                            "type": "AMAZON.US_FIRST_NAME"
+                            "type": "AMAZON.FIRST_NAME"
                         }
                     ],
                     "samples": [
